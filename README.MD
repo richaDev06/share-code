@@ -8,7 +8,7 @@ A collaborative code-sharing platform built using **React.js**, **Node.js**, **S
 
 - 🔗 Shareable room-based code collaboration
 - 🧠 Real-time code syncing using WebSockets
-- 🎨 Code editor powered by Ace Editor
+- 🎨 Code editor powered by Monaco Editor
 - 📄 Support for multiple programming languages
 - ⚙️ Simple, clean, and responsive UI
 
