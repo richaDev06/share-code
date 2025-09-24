@@ -3,7 +3,6 @@ import "./App.css";
 import io from "socket.io-client";
 import Editor from "@monaco-editor/react";
 
-// Replace with your backend URL in production
 const socket = io("https://share-code-7bcu.onrender.com");
 
 const App = () => {
