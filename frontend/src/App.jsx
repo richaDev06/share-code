@@ -4,7 +4,7 @@ import io from "socket.io-client";
 import Editor from "@monaco-editor/react";
 
 // Replace with your backend URL in production
-const socket = io("http://localhost:5000");
+const socket = io("https://share-code-7bcu.onrender.com");
 
 const App = () => {
   const [joined, setJoined] = useState(false);
