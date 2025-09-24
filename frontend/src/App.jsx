@@ -102,7 +102,7 @@ const App = () => {
     return (
       <div className="join-container">
         <div className="join-form">
-          <h1>Join Code Room</h1>
+          <h1>Share-Code</h1>
           <input
             type="text"
             placeholder="Room Id"
